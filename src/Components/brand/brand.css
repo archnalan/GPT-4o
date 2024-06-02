@@ -1,0 +1,41 @@
+.gpt4o__ourClients{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    width: 80%;  
+}
+
+.gpt4o__ourClients div{
+    flex: 1;
+    object-fit: contain;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.gpt4o__ourClients div img{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1290px) {
+    .gpt4o__ourClients div{
+        object-fit: contain;
+        padding: 0.5rem;
+        margin: 1rem 0;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .gpt4o__ourClients div{
+        object-fit: contain;
+        padding: 0.2rem;
+    }
+
+    .gpt4o__ourClients div img {
+        max-width: 100px;
+    }
+}
