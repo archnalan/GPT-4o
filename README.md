@@ -10,9 +10,12 @@ Visit the landing page here https://gpt-4o-web.web.app/
 
 ![GPT](https://github.com/user-attachments/assets/4b575cf8-8a2b-4a7a-ab2a-8750bfdd4dea)
 
-![responsive website](https://github.com/user-attachments/assets/9f54d19f-0e66-4e6c-a33c-74395082f29a)
+<div style="display:flex; justify-content:space-between;">
+  <img src="https://github.com/user-attachments/assets/9f54d19f-0e66-4e6c-a33c-74395082f29a" alt="responsive website" />
+  <img src="https://github.com/user-attachments/assets/ec082482-8330-4215-8843-70e5b2343b36" alt="responsive"/>
+</div>
 
-![responsive](https://github.com/user-attachments/assets/ec082482-8330-4215-8843-70e5b2343b36)
+
 
 ![mobile menu](https://github.com/user-attachments/assets/23b39ddc-d069-4c4e-89b2-d2e1c88efcb3)
 
