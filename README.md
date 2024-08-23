@@ -5,6 +5,7 @@ GPT-4o is a landing page for a streamlined version of a famous language model GP
 * React
 * Vite
 
+Visit the landing page here https://gpt-4o-web.web.app/
 ## The page
 ![GPT-4o](https://github.com/user-attachments/assets/e7db7e63-488d-474c-a3f2-33c13dd69503)
 
