@@ -1,8 +1,11 @@
-# React + Vite
+# GPT-4o
+GPT-4o is a landing page for a streamlined version of a famous language model GPT-4, optimized for specific tasks with enhanced speed and efficiency, often used in applications requiring quick, accurate responses with a smaller computational footprint.
+## Technologies used
+* JavaScript
+* React
+* Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## The App
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
