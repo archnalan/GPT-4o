@@ -7,7 +7,15 @@ GPT-4o is a landing page for a streamlined version of a famous language model GP
 
 Visit the landing page here https://gpt-4o-web.web.app/
 ## The page
-![GPT-4o](https://github.com/user-attachments/assets/e7db7e63-488d-474c-a3f2-33c13dd69503)
+
+![GPT](https://github.com/user-attachments/assets/4b575cf8-8a2b-4a7a-ab2a-8750bfdd4dea)
+
+![responsive website](https://github.com/user-attachments/assets/9f54d19f-0e66-4e6c-a33c-74395082f29a)
+
+![responsive](https://github.com/user-attachments/assets/ec082482-8330-4215-8843-70e5b2343b36)
+
+![mobile menu](https://github.com/user-attachments/assets/23b39ddc-d069-4c4e-89b2-d2e1c88efcb3)
+
 
 Do you like what you see? You can Hire me! Your JS and CSS dilemma is over ☺
 
